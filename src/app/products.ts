@@ -15,7 +15,7 @@ export const products = [
     description: ''
   }
 ];
-
+export let myName:string='Somanathan';
 
 /*
 Copyright Google LLC. All Rights Reserved.
